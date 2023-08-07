@@ -7,7 +7,7 @@ window.onload = function() {
         if (body.classList.contains('dev')) {
             body.classList.remove('dev');
             body.classList.add('normal');
-            button.textContent = "DOS theme"
+            button.textContent = "Dark theme"
         } else {
             body.classList.remove('normal');
             body.classList.add('dev');
