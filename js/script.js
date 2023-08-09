@@ -11,7 +11,7 @@ window.onload = function() {
         } else {
             body.classList.remove('normal');
             body.classList.add('dev');
-            button.textContent = "Bright theme"
+            button.textContent = "Light theme"
         }
     });
 }
